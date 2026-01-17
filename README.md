@@ -21,7 +21,7 @@ Check out my repositories for detailed work and demos:
 - **TetrisSolver** – [Repo Link](https://github.com/Chahnapatel09/TetrisSolver)  
   🎮 Console-based Java project with heuristic-based Tetris solver. Includes screenshots & demo GIF.  
 
-- **Power Service Management System** – [Repo Link](https://github.com/Chahnapatel09/PowerServiceManagement)  
+- **Power Service Management System** – [Repo Link](https://github.com/Chahnapatel09/PowerServiceManagement.git)  
   ⚡ Java simulation modeling power hubs, outages, and repair planning using algorithms and OOP.  
 
 
