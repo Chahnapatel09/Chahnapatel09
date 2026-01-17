@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 Hi, I’m Chahna Patel!
 
-<!--
-**Chahnapatel09/Chahnapatel09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master’s Student in Applied Computer Science** at Dalhousie University, Halifax  
+💻 Passionate about **programming, problem-solving, and exploring new technologies**  
+🌱 Lifelong learner who loves experimenting with new tools and frameworks  
+🌍 Curious about **emerging tech**, AI, full-stack development, and software design  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Technical Skills
+- **Languages:** Java, Python  
+- **Web Technologies:** HTML5, CSS3, Tailwind CSS, React.js, Node.js, Express.js  
+- **Databases:** MySQL, MongoDB  
+- **Frameworks & Tools:** Flutter, Spring Boot, Git, GitHub  
+
+---
+
+🌟 Projects & Highlights
+Check out my repositories for detailed work and demos:
+
+- **TetrisSolver** – [Repo Link](https://github.com/Chahnapatel09/TetrisSolver)  
+  🎮 Console-based Java project with heuristic-based Tetris solver. Includes screenshots & demo GIF.  
+
+- **Power Service Management System** – [Repo Link](https://github.com/Chahnapatel09/PowerServiceManagement)  
+  ⚡ Java simulation modeling power hubs, outages, and repair planning using algorithms and OOP.  
+
+
+---
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/chahna09/  
+- Email: chahnanpatel@gmail.com  
+
+---
+
+💡 *"I love learning, experimenting, and building projects that solve real-world problems!"*  
+
+
